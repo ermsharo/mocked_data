@@ -3,47 +3,47 @@
       {
         "name": "Sarah Johnson",
         "experience": "Sarah recently embarked on a thrilling adventure with our travel agency. She explored exotic destinations, indulged in local cuisine, and created unforgettable memories.",
-        "image": "https://example.com/sarah-johnson-image"
+        "image": "https://raw.githubusercontent.com/ermsharo/mocked_data/main/people/w1.png"
       },
       {
         "name": "Mark Davis",
         "experience": "Mark had a fantastic time exploring ancient ruins and historical sites during his trip organized by our travel agency. He was captivated by the rich cultural heritage of each destination.",
-        "image": "https://example.com/mark-davis-image"
+        "image": "https://raw.githubusercontent.com/ermsharo/mocked_data/main/people/m1.png"
       },
       {
         "name": "Emily Thompson",
         "experience": "Emily's journey with us was a rejuvenating experience. She enjoyed breathtaking landscapes, peaceful retreats, and embraced the tranquility of nature.",
-        "image": "https://example.com/emily-thompson-image"
+        "image": "https://raw.githubusercontent.com/ermsharo/mocked_data/main/people/w2.png"
       },
       {
         "name": "John Parker",
         "experience": "John had an adrenaline-fueled vacation with our travel agency. He engaged in thrilling activities like skydiving, bungee jumping, and scuba diving, making it a truly unforgettable adventure.",
-        "image": "https://example.com/john-parker-image"
+        "image": "https://raw.githubusercontent.com/ermsharo/mocked_data/main/people/m2.png"
       },
       {
         "name": "Lisa Wilson",
         "experience": "Lisa indulged in a luxurious escape tailored by our travel agency. She experienced world-class hospitality, pampering spa treatments, and explored the finest destinations in style.",
-        "image": "https://example.com/lisa-wilson-image"
+        "image": "https://raw.githubusercontent.com/ermsharo/mocked_data/main/people/w3.png"
       },
       {
         "name": "Michael Adams",
         "experience": "Michael embarked on a cultural exploration with our travel agency. He immersed himself in local traditions, interacted with friendly locals, and savored diverse culinary delights.",
-        "image": "https://example.com/michael-adams-image"
+        "image": "https://raw.githubusercontent.com/ermsharo/mocked_data/main/people/m3.png"
       },
       {
         "name": "Olivia Miller",
         "experience": "Olivia had a family-friendly vacation organized by our travel agency. She created precious memories with her loved ones, enjoying theme parks, scenic tours, and exciting adventures.",
-        "image": "https://example.com/olivia-miller-image"
+        "image": "https://raw.githubusercontent.com/ermsharo/mocked_data/main/people/w4.png"
       },
       {
         "name": "David Turner",
         "experience": "David's trip with our travel agency was a soul-enriching experience. He embraced the serenity of pristine beaches, practiced yoga, and rejuvenated his mind, body, and spirit.",
-        "image": "https://example.com/david-turner-image"
+        "image": "https://raw.githubusercontent.com/ermsharo/mocked_data/main/people/m4.png"
       },
       {
         "name": "Sophia Lee",
         "experience": "Sophia embarked on an epic backpacking adventure with our travel agency. She explored off-the-beaten-path destinations, forged new friendships, and discovered her true adventurous spirit.",
-        "image": "https://example.com/sophia-lee-image"
+        "image": "https://raw.githubusercontent.com/ermsharo/mocked_data/main/people/w5.png"
       }
     ]
   }
